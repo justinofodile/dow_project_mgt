@@ -18,7 +18,7 @@ const CasIntro = () => {
       </p>
       <div className="flex flex-col text-center space-y-0">
         <img
-          className="w-80"
+          className="w-80 rounded-lg"
           src="https://airforce.mil.ng/uploads/news/images/thumb_398014521IMG-20230829-WA0015.jpg"
           alt="Nigerian Air Force CAS"
         />
