@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Inter:wght@400;700;800&family=Poppins:wght@200;300;400;500&display=swap");
+
+li,
+a {
+  text-decoration: none;
+  list-style: none;
+  color: rgba(0, 0, 0, 0.85);
+  font-family: Inter;
+  /* font-size: 191.018px; */
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+a:hover {
+  color: red;
+}
+
+.introBar {
+  color: #000;
+  /* text-align: center; */
+  /* font-family: Poppins; */
+  /* font-size: 250px; */
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.viewBtn {
+  border-radius: 5px;
+  background: #f57036;
+  padding: 10px 70px;
+  border: none;
+  cursor: pointer;
+}
+.hView {
+  color: #000;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
